@@ -8,6 +8,7 @@ public class Atividade7 {
 
         int variavelAuxiliar = variavel1;
         variavel1 = variavel2;
+        
         variavel2 = variavelAuxiliar;
         
         System.out.println("O valor trocado da variavel1 eh: " + variavel1);
